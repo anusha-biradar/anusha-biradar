@@ -27,19 +27,11 @@ Most of my projects are hands-on and built while learning, experimenting and fig
 **Tools:** Git · GitHub · Arduino IDE
 
 ---
-
 ## 🛠️ Things I've Built
 
 ### 🚁 Smart Drone for Animal Detection and Tracking
 
-A Raspberry Pi-based drone project that uses computer vision to detect and track animals.
-
-* Uses YOLOv8 for animal detection
-* Uses OpenCV for image processing
-* Raspberry Pi 5 and camera module for image capture and processing
-* GPS used for location information
-* Includes a buzzer/siren for alerts
-* Manually operated drone with real-time detection
+A Raspberry Pi-based project using YOLOv8 and OpenCV for animal detection and tracking.
 
 **Technologies:** Python · YOLOv8 · OpenCV · Raspberry Pi · GPS
 
@@ -49,18 +41,18 @@ A Raspberry Pi-based drone project that uses computer vision to detect and track
 * 🚀 Selected for National Techno Exhibition
 * 💡 Our project received ₹2,00,000 in funding through the VOIS Innovation Marathon 2.0 competition
 
+
+*Project repository coming soon.*
+
 ---
 
 ### 🎵 MP3 Tag Reader & Editor
 
-A C project that works with MP3 files to read and edit ID3 metadata.
-
-* Reads information such as title, artist, album and year
-* Works with binary MP3 data
-* Reads and updates ID3 tag information
-* Uses file operations such as `fseek()`, `fread()` and `fwrite()`
+A C project for reading and editing ID3 metadata in MP3 files.
 
 **Technologies:** C · Binary Files · Structures · File Handling
+
+🔗 **[View Project →](https://github.com/anusha-biradar/mp3-tag-reader)**
 
 ---
 
@@ -68,39 +60,29 @@ A C project that works with MP3 files to read and edit ID3 metadata.
 
 A C program that reads source code, identifies tokens and performs different validations.
 
-* Identifies keywords, identifiers and operators
-* Performs different input validations
-* Checks binary, octal, hexadecimal and decimal values
-* Validates brackets, braces and parentheses
-* Uses file handling to read source code
-
 **Technologies:** C · File Handling · Tokenization · Validation
+
+🔗 **[View Project →](https://github.com/anusha-biradar/lexical-analyzer)**
 
 ---
 
 ### 🌐 Source2HTML
 
-A C project that reads C source code and generates an HTML representation of it.
-
-* Reads and processes a C source file
-* Identifies comments and other parts of the source code
-* Generates an HTML output file
-* Uses parsing and file handling
+A C project that reads C source code and generates an HTML representation.
 
 **Technologies:** C · Parsing · File Handling · HTML
+
+🔗 **[View Project →](https://github.com/anusha-biradar/source2html)**
 
 ---
 
 ### 📒 Address Book
 
-A C-based contact management system with add, edit, delete and search functionality.
-
-* Add, edit, delete and search contacts
-* Search using name, phone number or email
-* File handling for storing contacts
-* Menu-driven program using structures and functions
+A C-based contact management system with search, edit, delete and file handling features.
 
 **Technologies:** C · Structures · Pointers · File Handling
+
+🔗 **[View Project →](https://github.com/anusha-biradar/address-book)**
 
 ---
 
