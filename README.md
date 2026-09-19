@@ -10,17 +10,13 @@ Most of my projects are hands-on and built while learning, experimenting and fig
 
 ## 🔧 What I Work With
 
-**Languages**
-C · C++ · Python
+**Languages** C · C++ · Python
 
-**Core Concepts**
-Data Structures · Pointers · Structures · File Handling · Parsing
+**Core Concepts** Data Structures · Pointers · Structures · File Handling · Parsing
 
-**Embedded**
-Microcontrollers · Embedded Systems · IoT · Embedded Linux Basics
+**Embedded** Microcontrollers · Embedded Systems · IoT · Embedded Linux Basics
 
-**Tools**
-Git · GitHub · Linux · Arduino IDE · Keil · ESP32 · Raspberry Pi
+**Tools** Git · GitHub · Linux · Arduino IDE · Keil · ESP32 · Raspberry Pi
 
 ---
 
