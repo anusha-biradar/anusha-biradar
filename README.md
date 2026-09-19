@@ -14,7 +14,7 @@ Most of my projects are hands-on and built while learning, experimenting and fig
 
 **Embedded Systems:** Embedded C · Microcontrollers · Embedded Systems · Embedded Linux · IoT
 
-**Knowledge:** UART · SPI · I²C · CAN
+**Knowledge:** UART · SPI · I2C · CAN
 
 **Communication:** Ethernet · DoIP · UDS
 
