@@ -10,17 +10,21 @@ Most of my projects are hands-on and built while learning, experimenting and fig
 
 ## 🔧 What I Work With
 
-**Languages:** C · C++ · Python
+**Programming:** C · C++ · Python
 
-**Embedded:** Microcontrollers · Embedded Systems · Embedded C · Embedded Linux
+**Embedded Systems:** Embedded C · Microcontrollers · Embedded Systems · Embedded Linux · IoT
 
-**Communication Protocols:** UART · SPI · I²C · CAN · Ethernet
+**Knowledge:** UART · SPI · I²C · CAN
 
-**Core Concepts:** Data Structures · Pointers · Structures · File Handling · Parsing
+**Communication:** Ethernet · DoIP · UDS
 
 **Electronics:** Digital Electronics · Analog Electronics · Microcontrollers & Interfacing
 
-**Tools:** Git · GitHub · Linux · Arduino IDE · Keil · ESP32 · Raspberry Pi
+**Worked With:** ESP32 · Raspberry Pi · Arduino · Linux · Keil
+
+**Core Concepts:** Data Structures · Pointers · Structures · File Handling · Parsing
+
+**Tools:** Git · GitHub · Arduino IDE
 
 ---
 
